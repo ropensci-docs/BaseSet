@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4b376bb9ef2071b7e3985b2b4aee0354c84e0a8e",
+    "author": "Lluís <lluis.revilla@gmail.com>",
+    "time": "2021-07-05 11:22:52",
+    "files": 2,
+    "merge": false,
+    "message": "Increment version number\n"
+  },
+  "remote": "https://github.com/ropensci/BaseSet",
+  "pkg": "BaseSet"
+}

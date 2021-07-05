@@ -1,0 +1,12 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  advanced: advanced.html
+  basic: basic.html
+  fuzzy: fuzzy.html
+last_built: 2021-07-15T07:57Z
+urls:
+  reference: https://docs.ropensci.org/BaseSet/reference
+  article: https://docs.ropensci.org/BaseSet/articles
+
