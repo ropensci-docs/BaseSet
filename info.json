@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4936e88805bda946f28ffda221c6ced7bb36da00",
+    "author": "Lluís <lluis.revilla@gmail.com>",
+    "time": "2023-12-17 11:33:42",
+    "files": 1,
+    "merge": false,
+    "message": "Add NEWS section.\n"
+  },
+  "repo": "https://github.com/ropensci/BaseSet",
+  "pkg": "BaseSet"
+}
