@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "d30d5e07d3c267473becb62c5435a0708348798f",
+    "author": "Lluís Revilla <llrs@users.noreply.github.com>",
+    "time": "2025-12-19T00:47:22Z",
+    "files": 7,
+    "merge": false,
+    "message": "Upkeep (#78)\n\n"
+  },
+  "repo": "https://github.com/ropensci/BaseSet",
+  "pkg": "BaseSet",
+  "time": "2026-08-31T12:37:11Z"
+}
