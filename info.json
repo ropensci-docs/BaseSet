@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "9379e00fb9bf6c8c713ce51cbe3215ab8e61625e",
+    "author": "Lluís Revilla <llrs@users.noreply.github.com>",
+    "time": "2026-10-25T21:38:57Z",
+    "files": 163,
+    "merge": false,
+    "message": "Update package (#80)"
+  },
+  "repo": "https://github.com/ropensci/BaseSet",
+  "pkg": "BaseSet",
+  "time": "2026-10-25T22:59:28Z"
+}
